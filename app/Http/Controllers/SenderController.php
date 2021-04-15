@@ -14,7 +14,7 @@ class SenderController extends Controller
     // public function resident(Request $request){
         
     //     $name = $request->input('name');
-    //     $num = $request->input('number');
+   
     //     $msg = $request->input('sms');
     //     $api = "TR-VINCE484106_H25A1";
     //     $pass = "6@9uq!mv#i";
